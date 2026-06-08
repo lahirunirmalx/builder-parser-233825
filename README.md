@@ -1,2 +1,3 @@
 # builder-parser-233825
-Experimental tooling
+
+Experimental module — not yet stable.
